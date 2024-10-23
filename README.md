@@ -14,7 +14,7 @@ Koşullu ifadelerle programın nasıl kararlar verebileceğini öğrendim. 💡
 ## 📍 4. Proje: Döngüler
 Kodları tekrar tekrar çalıştırmayı ve verimli hale getirmeyi uyguladım. 🔁
 
-** ## 📍 5. Proje: Döngülerle Yıldız Çizme **
+## ** 📍 5. Proje: Döngülerle Yıldız Çizme **
 Döngüleri kullanarak desenler ve şekiller oluşturmayı denedim. ⭐
 
 ## 📍 6. Proje: Diziler
