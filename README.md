@@ -26,5 +26,5 @@ Diziler ve koleksiyonlar üzerinde foreach döngüsü ile gezindim. 🔍
 ## 📍 8. Proje: Metotlar
 Metotlar sayesinde kodlarımı daha düzenli ve modüler hale getirdim. 🛠️
 
-## 📍 9. Proje: Veri Tabanı Bğlantısı
+## 📍 9. Proje: Veri Tabanı Bağlantısı
 Veritabanına bağlanarak, verilerle nasıl etkileşim kurabileceğimi öğrendim. 💾
